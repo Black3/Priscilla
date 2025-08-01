@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebber Priscilla
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’ve a google data analytics certificate
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me is via my email which is ebberpri7@gmail.com
 
